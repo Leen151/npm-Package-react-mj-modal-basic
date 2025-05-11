@@ -18,6 +18,12 @@ Exemple après personnalisation:
 npm install react-mj-modal-basic
 ```
 
+## Prérequis
+
+- React 18.0.0 ou supérieur
+- React DOM 18.0.0 ou supérieur
+- Node.js 16.0.0 ou supérieur
+
 ## Utilisation
 
 ```jsx
