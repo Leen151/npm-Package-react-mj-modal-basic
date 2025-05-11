@@ -1,6 +1,6 @@
 {
   "name": "react-mj-modal-basic",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Modale React simple et personnalisable.",
   "main": "./dist/react-mj-modal-basic.umd.js",
   "module": "./dist/react-mj-modal-basic.es.js",
